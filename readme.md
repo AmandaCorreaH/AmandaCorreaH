@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">•  Desenvolvedora Frontend  & UX/UI Designer junior.</p>
+<p align="left">•Desenvolvedora Fullstack & UX/UI Designer junior.</p>
 
 ##
 
