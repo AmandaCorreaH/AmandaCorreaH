@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">•Desenvolvedora Fullstack & UX/UI Designer junior.</p>
+<p align="left">Estudo na escola de programação <a href="https://app.rocketseat.com.br/">Rocketseat</a>, formação Fullstack no momento</p>
 
 ##
 
